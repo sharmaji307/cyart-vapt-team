@@ -1,0 +1,34 @@
+# Reconnaissance Report
+
+Target Domain: example.com
+
+---
+
+## Tools Used
+
+Shodan
+Maltego
+Sublist3r
+
+---
+
+## Findings
+
+| Timestamp | Tool    | Finding              |
+| --------- | ------- | -------------------- |
+| 10:00 AM  | Shodan  | Exposed SSH Service  |
+| 10:30 AM  | Maltego | Subdomain discovered |
+
+---
+
+## Subdomains Identified
+
+dev.example.com
+mail.example.com
+api.example.com
+
+---
+
+## Summary
+
+Reconnaissance revealed exposed services and multiple subdomains that could potentially increase the attack surface.
