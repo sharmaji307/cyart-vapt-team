@@ -1,1 +1,19 @@
+# Full VAPT Assessment Report
 
+A vulnerability assessment and penetration test was conducted on the DVWA application.
+
+During scanning several vulnerabilities were identified including SQL Injection.
+
+Using sqlmap the SQL injection vulnerability was exploited and database names were extracted successfully.
+
+This demonstrates that user input validation was not implemented properly.
+
+Impact
+
+Attackers could access sensitive database information.
+
+Remediation
+
+Implement prepared statements and input validation.
+
+Regular security testing should be conducted to prevent future attacks.
