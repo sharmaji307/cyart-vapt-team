@@ -6,7 +6,7 @@
 | ---------------- | ------------- | ------------- | ------------ |
 | 2025-08-30 15:00 | 192.168.1.200 | VSFTPD RCE    | Exploitation |
 
-## 📄 Report (300 words)
+## 📄 Report 
 
 The system was tested using a complete VAPT methodology. Initial scanning identified vulnerabilities including remote code execution. Exploitation was successfully performed using Metasploit. Privilege escalation and persistence were achieved. The system is critically vulnerable and requires immediate patching, access control, and secure configurations.
 
