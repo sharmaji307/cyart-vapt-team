@@ -31,7 +31,7 @@ To simulate a complete penetration testing lifecycle from reconnaissance to repo
 
 ---
 
-## 📄 Report (200 words)
+## 📄 Report 
 
 The target system was assessed using a complete penetration testing methodology. Initial reconnaissance and scanning identified several vulnerabilities, including a critical remote code execution flaw. Exploitation was successfully carried out using Metasploit, allowing unauthorized access to the system. Post-exploitation activities confirmed full system compromise. Sensitive data access and privilege escalation were achieved. The findings highlight significant weaknesses in the system's security posture. Immediate remediation steps, including patch management, input validation, and access control improvements, are recommended. Regular security assessments should be conducted to prevent future exploitation.
 
